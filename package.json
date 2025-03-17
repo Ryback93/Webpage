@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s036g64",
+  "description": "https://scrimba.com/frontend-path-c0j/~0da/s082fmtc0c/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
